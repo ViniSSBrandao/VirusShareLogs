@@ -3,7 +3,7 @@ import pandas as pd
 
 # Specify the directory where you want to save the files
 
-block = '00471'
+block = '00485'
 print(f'Generating catalog for VirusShare_{block}')
 count_directory_path= f"./Logs_By_VirusShare/{block}"
 mime_directory_path="./TypeCounts"
@@ -12,7 +12,7 @@ mime_directory_path="./TypeCounts"
 # Ensure the directory exists
 os.makedirs(count_directory_path, exist_ok=True)
 
-origem = f'registro_destino_{block}.csv'
+origem = f'Untreated_logs/registro_destino_{block}.csv'
 
 # Load data
 data = pd.read_csv(origem)

@@ -1,0 +1,4 @@
+Arquivo,Tipo MIME,Pasta de Destino
+VirusShare_46e9077f3edea85c02dee86674d0c563,application/json,./sample_classification/application_json
+VirusShare_789cf87685b0dec269143ce0e1b999af,application/json,./sample_classification/application_json
+VirusShare_ad770d2fa8f4a7b9b791886a67592520,application/json,./sample_classification/application_json
