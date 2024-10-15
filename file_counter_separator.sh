@@ -4,7 +4,7 @@
 inicio=$(date +%s%3N)
 
 # Diretório onde os arquivos estão localizados
-diretorio_origem="./samples"
+diretorio_origem="./Untreated_logs/"
 
 # Diretório onde os arquivos serão organizados
 diretorio_destino="./sample_classification"
