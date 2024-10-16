@@ -1,4 +1,4 @@
-Arquivo,Tipo MIME,Pasta de Destino
+Arquivo,MIME_type,Pasta de Destino
 VirusShare_1a9de860deff3e73c591543977f30744,text/x-php,./sample_classification/text_x-php
 VirusShare_c7d32133947b3aa9f7936193f90156f8,text/x-php,./sample_classification/text_x-php
 VirusShare_0d31a262ccddd3c558cfe03b1c373d26,text/x-php,./sample_classification/text_x-php

@@ -1,4 +1,4 @@
-Arquivo,Tipo MIME,Pasta de Destino
+Arquivo,MIME_type,Pasta de Destino
 VirusShare_d6f48124c3086c1500d5907f4fff3e64,text/x-ruby,./sample_classification/text_x-ruby
 VirusShare_110120e587f5410aee4356150319a242,text/x-ruby,./sample_classification/text_x-ruby
 VirusShare_432fa3085aa565cfb7cd4d10cc698e34,text/x-ruby,./sample_classification/text_x-ruby

@@ -1,4 +1,4 @@
-Tipo MIME,Count,Virus_Share_Package
+MIME_type,Count,Virus_Share_Package
 application/vnd.microsoft.portable-executable,31075,Untreated_logs/registro_destino_00469.csv
 text/html,13171,Untreated_logs/registro_destino_00469.csv
 application/pdf,10957,Untreated_logs/registro_destino_00469.csv

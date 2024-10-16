@@ -1,4 +1,4 @@
-Arquivo,Tipo MIME,Pasta de Destino
+Arquivo,MIME_type,Pasta de Destino
 VirusShare_697eaccf43a072d78dcc61c110d8be57,text/x-perl,./sample_classification/text_x-perl
 VirusShare_57fcd9560dac244aeaf95fd606621900,text/x-perl,./sample_classification/text_x-perl
 VirusShare_bdd5e7412a56099f442759b36a917fd3,text/x-perl,./sample_classification/text_x-perl

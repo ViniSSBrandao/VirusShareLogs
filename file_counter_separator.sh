@@ -17,7 +17,7 @@ mkdir -p "$diretorio_destino"
 echo "Diretório destino '$diretorio_destino' verificado ou criado."
 
 # Inicializa o arquivo de log
-echo "Arquivo,Tipo MIME,Pasta de Destino" > "$arquivo_log"
+echo "Arquivo,MIME_type,Pasta de Destino" > "$arquivo_log"
 echo "Arquivo de log '$arquivo_log' criado."
 
 # Contagem de arquivos processados
@@ -35,7 +35,7 @@ find "$diretorio_origem" -type f | while read arquivo; do
     # Exibe progresso
     echo "Processando arquivo $contador de $total_arquivos: $arquivo"
 
-    # Obtém a assinatura do arquivo (tipo MIME)
+    # Obtém a assinatura do arquivo (MIME_type)
     assinatura=$(file --mime-type -b "$arquivo")
     echo "Assinatura detectada: $assinatura"
 

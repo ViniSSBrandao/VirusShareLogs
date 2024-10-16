@@ -1,4 +1,4 @@
-Arquivo,Tipo MIME,Pasta de Destino
+Arquivo,MIME_type,Pasta de Destino
 VirusShare_4b765148886756aec89200ac8aca5053,application/x-mach-binary,./sample_classification/application_x-mach-binary
 VirusShare_24c88008b2c19ddb099aad6ed0c6c62b,application/x-mach-binary,./sample_classification/application_x-mach-binary
 VirusShare_643fb6e5db94856456d87a3c363b39ab,application/x-mach-binary,./sample_classification/application_x-mach-binary

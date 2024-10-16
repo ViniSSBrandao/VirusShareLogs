@@ -1,4 +1,4 @@
-Arquivo,Tipo MIME,Pasta de Destino
+Arquivo,MIME_type,Pasta de Destino
 VirusShare_54a8443988f7a205da133f476656e52a,message/rfc822,./sample_classification/message_rfc822
 VirusShare_412741701fa661d581b13cf27c55cf8a,message/rfc822,./sample_classification/message_rfc822
 VirusShare_22f0578ab9a86a4a8c039d54c9a4818f,message/rfc822,./sample_classification/message_rfc822

@@ -1,4 +1,4 @@
-Arquivo,Tipo MIME,Pasta de Destino
+Arquivo,MIME_type,Pasta de Destino
 VirusShare_dc8c4e20ad57686ef3c9085d97b7250a,application/zip,./sample_classification/application_zip
 VirusShare_814d64040f95d6a86b233a4a1f5225f3,application/zip,./sample_classification/application_zip
 VirusShare_f420c3f4f36012d7693bd357b7779c9f,application/zip,./sample_classification/application_zip

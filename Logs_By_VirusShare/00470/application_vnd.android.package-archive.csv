@@ -1,4 +1,4 @@
-Arquivo,Tipo MIME,Pasta de Destino
+Arquivo,MIME_type,Pasta de Destino
 VirusShare_d205fcf07a8e3065502d303d3fca7081,application/vnd.android.package-archive,./sample_classification/application_vnd.android.package-archive
 VirusShare_314259b399bbed60720b123c219359cc,application/vnd.android.package-archive,./sample_classification/application_vnd.android.package-archive
 VirusShare_c09e08601f477cadf6a0ba9aa5b0a488,application/vnd.android.package-archive,./sample_classification/application_vnd.android.package-archive

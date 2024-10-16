@@ -1,4 +1,4 @@
-Arquivo,Tipo MIME,Pasta de Destino
+Arquivo,MIME_type,Pasta de Destino
 VirusShare_00f510bf183e74310579323f2b4d1c9d,application/pdf,./sample_classification/application_pdf
 VirusShare_6e6f8198d5ef82f342375801c3e5ef12,application/pdf,./sample_classification/application_pdf
 VirusShare_6deb9f5df34fc2c5676a6ba9a895ae7e,application/pdf,./sample_classification/application_pdf

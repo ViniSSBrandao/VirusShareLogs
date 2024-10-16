@@ -1,4 +1,4 @@
-Tipo MIME,Count,Virus_Share_Package
+MIME_type,Count,Virus_Share_Package
 application/pdf,32733,registro_destino_00479.csv
 application/x-dosexec,15346,registro_destino_00479.csv
 text/html,13402,registro_destino_00479.csv

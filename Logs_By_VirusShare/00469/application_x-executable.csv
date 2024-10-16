@@ -1,4 +1,4 @@
-Arquivo,Tipo MIME,Pasta de Destino
+Arquivo,MIME_type,Pasta de Destino
 VirusShare_9944b3366f7450703f1ab93d9c558446,application/x-executable,./sample_classification/application_x-executable
 VirusShare_0b53dcb70eaca21e79338b0b97dc8266,application/x-executable,./sample_classification/application_x-executable
 VirusShare_aa193cb3160edf5864b26384d6652567,application/x-executable,./sample_classification/application_x-executable

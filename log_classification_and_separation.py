@@ -18,8 +18,8 @@ origem = f"Untreated_logs/registro_destino_{block}.csv"
 data = pd.read_csv(origem)
 
 # Count occurrences of each MIME type and convert to DataFrame
-mime_counts = data["Tipo MIME"].value_counts().reset_index()
-mime_counts.columns = ["Tipo MIME", "Count"]
+mime_counts = data["MIME_type"].value_counts().reset_index()
+mime_counts.columns = ["MIME_type", "Count"]
 
 
 mime_counts["Virus_Share_Package"] = origem
@@ -29,8 +29,8 @@ mime_counts.to_csv(
     os.path.join(mime_directory_path, f"mime_counts{block}.csv"), index=False
 )
 
-# Group data by 'Tipo MIME' and save to the specified directory
-for mime_type, group in data.groupby("Tipo MIME"):
+# Group data by 'MIME_type' and save to the specified directory
+for mime_type, group in data.groupby("MIME_type"):
     filename = f"{mime_type.replace('/', '_')}.csv"
     full_path = os.path.join(count_directory_path, filename)
     group.to_csv(full_path, index=False)

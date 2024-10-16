@@ -1,4 +1,4 @@
-Arquivo,Tipo MIME,Pasta de Destino
+Arquivo,MIME_type,Pasta de Destino
 VirusShare_4c35d264e4a170eee1a8ee9b95acc3b1,application/x-ms-shortcut,./sample_classification/application_x-ms-shortcut
 VirusShare_e0d427e35a24a47747a30c6ec5a84fea,application/x-ms-shortcut,./sample_classification/application_x-ms-shortcut
 VirusShare_aa7ec69d7ac0230d5e5a9218382801af,application/x-ms-shortcut,./sample_classification/application_x-ms-shortcut

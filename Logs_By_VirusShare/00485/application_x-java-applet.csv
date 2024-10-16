@@ -1,4 +1,4 @@
-Arquivo,Tipo MIME,Pasta de Destino
+Arquivo,MIME_type,Pasta de Destino
 VirusShare_f7a1ab1f912506dc2aa77f1c416a9586,application/x-java-applet,./sample_classification/application_x-java-applet
 VirusShare_5a0452fc536fe7173cc4898e7da431ca,application/x-java-applet,./sample_classification/application_x-java-applet
 VirusShare_a1ed5c2b18c9eba3a88b97a893b901e5,application/x-java-applet,./sample_classification/application_x-java-applet

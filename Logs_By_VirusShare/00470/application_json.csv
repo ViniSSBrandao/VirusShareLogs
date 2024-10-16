@@ -1,2 +1,2 @@
-Arquivo,Tipo MIME,Pasta de Destino
+Arquivo,MIME_type,Pasta de Destino
 VirusShare_e8f0e53b54e8e0b643dba92e2e31f166,application/json,./sample_classification/application_json

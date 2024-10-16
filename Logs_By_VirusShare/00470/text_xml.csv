@@ -1,4 +1,4 @@
-Arquivo,Tipo MIME,Pasta de Destino
+Arquivo,MIME_type,Pasta de Destino
 VirusShare_6071a00de96a4d54afb2027c67bdeac7,text/xml,./sample_classification/text_xml
 VirusShare_48854785c898f080305c6b7816313917,text/xml,./sample_classification/text_xml
 VirusShare_1c2c5828928632ec3d1a36d0cc80e68e,text/xml,./sample_classification/text_xml

@@ -1,4 +1,4 @@
-Arquivo,Tipo MIME,Pasta de Destino
+Arquivo,MIME_type,Pasta de Destino
 VirusShare_d3f3d173f2a959a66ebee5c7c53ab6ff,text/x-script.python,./sample_classification/text_x-script.python
 VirusShare_bb942b1b7e8d5fcc4be82b07e5d977b0,text/x-script.python,./sample_classification/text_x-script.python
 VirusShare_bc4d3fb039c7652e420dbdcfb0b164c4,text/x-script.python,./sample_classification/text_x-script.python

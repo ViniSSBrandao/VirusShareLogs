@@ -1,4 +1,4 @@
-Arquivo,Tipo MIME,Pasta de Destino
+Arquivo,MIME_type,Pasta de Destino
 VirusShare_71bc14ae474980c5614b1b27e0e21adb,application/encrypted,./sample_classification/application_encrypted
 VirusShare_dec25c57bdc8c945ba975d0f693243cb,application/encrypted,./sample_classification/application_encrypted
 VirusShare_a84047446721c0cabca9a1a8461e5315,application/encrypted,./sample_classification/application_encrypted

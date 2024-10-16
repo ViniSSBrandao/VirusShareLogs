@@ -1,2 +1,2 @@
-Arquivo,Tipo MIME,Pasta de Destino
+Arquivo,MIME_type,Pasta de Destino
 VirusShare_5a25e9fb5381c20cac589994f4589c23,application/x-setupscript,./sample_classification/application_x-setupscript

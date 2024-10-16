@@ -1,4 +1,4 @@
-Arquivo,Tipo MIME,Pasta de Destino
+Arquivo,MIME_type,Pasta de Destino
 VirusShare_378bdc9e5b54b978c87e474458d3de55,application/x-rar,./sample_classification/application_x-rar
 VirusShare_89156d705122dc49d05939d0ad9d69cc,application/x-rar,./sample_classification/application_x-rar
 VirusShare_db397ee653638a282772ba6f2bb58941,application/x-rar,./sample_classification/application_x-rar

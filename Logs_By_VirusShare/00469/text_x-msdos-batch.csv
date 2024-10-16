@@ -1,4 +1,4 @@
-Arquivo,Tipo MIME,Pasta de Destino
+Arquivo,MIME_type,Pasta de Destino
 VirusShare_7efce53feafd45efc7634b2d57559a7c,text/x-msdos-batch,./sample_classification/text_x-msdos-batch
 VirusShare_f7250402620daa5e2c469dbc04163e00,text/x-msdos-batch,./sample_classification/text_x-msdos-batch
 VirusShare_994baecaef6f5c73bed5c76821eea0d8,text/x-msdos-batch,./sample_classification/text_x-msdos-batch

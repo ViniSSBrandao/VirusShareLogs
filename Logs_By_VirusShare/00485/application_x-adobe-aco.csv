@@ -1,4 +1,4 @@
-Arquivo,Tipo MIME,Pasta de Destino
+Arquivo,MIME_type,Pasta de Destino
 VirusShare_7a82b0a85c4f279a258a46057d530093,application/x-adobe-aco,./sample_classification/application_x-adobe-aco
 VirusShare_cf4dda03f514b4152158d8d5e7a71bef,application/x-adobe-aco,./sample_classification/application_x-adobe-aco
 VirusShare_ff98a88d89c335bf567d867ca9364271,application/x-adobe-aco,./sample_classification/application_x-adobe-aco

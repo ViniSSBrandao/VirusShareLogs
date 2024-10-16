@@ -1,4 +1,4 @@
-Arquivo,Tipo MIME,Pasta de Destino
+Arquivo,MIME_type,Pasta de Destino
 VirusShare_662824c95d9e8b0eb0903ddb7cde24dc,application/vnd.ms-excel,./sample_classification/application_vnd.ms-excel
 VirusShare_190419b7c8d5e2f51c1197cb83ccaec2,application/vnd.ms-excel,./sample_classification/application_vnd.ms-excel
 VirusShare_091ad8c410ae3f1c1f0aeec098f2c396,application/vnd.ms-excel,./sample_classification/application_vnd.ms-excel

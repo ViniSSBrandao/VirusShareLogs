@@ -1,4 +1,4 @@
-Arquivo,Tipo MIME,Pasta de Destino
+Arquivo,MIME_type,Pasta de Destino
 VirusShare_34f2c5f5d72f7c37b9b6db0a3f73e2a4,application/x-sharedlib,./sample_classification/application_x-sharedlib
 VirusShare_4492d94f63d07f46e7e8a93cdc38ec60,application/x-sharedlib,./sample_classification/application_x-sharedlib
 VirusShare_101f6ee1c534e1233499f0515cae8dbf,application/x-sharedlib,./sample_classification/application_x-sharedlib

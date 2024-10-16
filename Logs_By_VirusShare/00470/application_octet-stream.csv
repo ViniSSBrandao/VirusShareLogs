@@ -1,4 +1,4 @@
-Arquivo,Tipo MIME,Pasta de Destino
+Arquivo,MIME_type,Pasta de Destino
 VirusShare_9b0d43e0b5716e062d9926e44cbc5e87,application/octet-stream,./sample_classification/application_octet-stream
 VirusShare_9e0014c6513d228cb400193cd38c84a4,application/octet-stream,./sample_classification/application_octet-stream
 VirusShare_752e75401922c259c32d70bb894e87fc,application/octet-stream,./sample_classification/application_octet-stream
