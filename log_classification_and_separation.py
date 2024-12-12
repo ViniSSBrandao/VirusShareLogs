@@ -3,7 +3,7 @@ import pandas as pd
 
 # Specify the directory where you want to save the files
 
-block = "00469"
+block = "00478"
 print(f"Generating catalog for VirusShare_{block}")
 count_directory_path = f"./Logs_By_VirusShare/{block}"
 mime_directory_path = "./TypeCounts"
