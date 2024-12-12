@@ -1,4 +1,4 @@
-Arquivo,Tipo MIME,Pasta de Destino
+Arquivo,MIME_type,Pasta de Destino
 VirusShare_b344c3c4b012ae5373da2128f65817de,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet,./sample_classification/application_vnd.openxmlformats-officedocument.spreadsheetml.sheet
 VirusShare_3bcbe33f84954f3491e096ba5bceb094,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet,./sample_classification/application_vnd.openxmlformats-officedocument.spreadsheetml.sheet
 VirusShare_08188e5102d3824ad530a21c1b25ad97,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet,./sample_classification/application_vnd.openxmlformats-officedocument.spreadsheetml.sheet

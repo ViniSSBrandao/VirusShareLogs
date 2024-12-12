@@ -1,4 +1,4 @@
-Arquivo,Tipo MIME,Pasta de Destino
+Arquivo,MIME_type,Pasta de Destino
 VirusShare_1b054d9a94a06d5b0c453ed196ea8c16,application/x-7z-compressed,./sample_classification/application_x-7z-compressed
 VirusShare_6e6e0fb9c4dd39db960331296a527057,application/x-7z-compressed,./sample_classification/application_x-7z-compressed
 VirusShare_a94f77319fe290f434b31daecd83eddb,application/x-7z-compressed,./sample_classification/application_x-7z-compressed

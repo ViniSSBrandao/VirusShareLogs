@@ -1,4 +1,4 @@
-Arquivo,Tipo MIME
+Arquivo,MIME_type
 VirusShare_8ceab11a6e17bf7bb1b8db9ccd29d579,application/x-dosexec
 VirusShare_addc302ace21605f464c3e559e8a18bf,application/pdf
 VirusShare_fb08e9172cad7dfdc186d2810de31cd0,application/pdf
@@ -65533,3 +65533,5 @@ VirusShare_8402a674bd457666659141fe24aa73d9,application/pdf
 VirusShare_1d268c6e4ecaf7a93df75584b63916b5,text/html
 VirusShare_34f19d02922649fa950751290c3c871c,application/pdf
 VirusShare_cc382847333c1158bda2ae368bada14d,application/x-dosexec
+72e18e2c18bd861d6848029f6c0a01afaee34f9cf642d5a1789d8458ded668ce,application/vnd.microsoft.portable-executable
+f164b6fb7e35e272b29997618203df0107c54d894cb803aa2c85d13d3f63bcb9,application/vnd.microsoft.portable-executable

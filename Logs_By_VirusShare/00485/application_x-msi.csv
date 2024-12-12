@@ -1,4 +1,4 @@
-Arquivo,Tipo MIME,Pasta de Destino
+Arquivo,MIME_type,Pasta de Destino
 VirusShare_dffb3d323708f624dc3469e99c3adcb3,application/x-msi,./sample_classification/application_x-msi
 VirusShare_36b8ab4ab974a6be2ae8aec49600215c,application/x-msi,./sample_classification/application_x-msi
 VirusShare_d13d644d111ba1ad4a95d7c6dfd9b669,application/x-msi,./sample_classification/application_x-msi

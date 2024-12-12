@@ -1,4 +1,4 @@
-Arquivo,Tipo MIME
+Arquivo,MIME_type
 VirusShare_f7c0612aa186f7fbe8e4327ec590641e,application/x-dosexec
 VirusShare_2124a90adf8a859a5500a8233c0c5e0e,application/x-dosexec
 VirusShare_a35396433ad3eaf45f3957391b9daade,application/x-dosexec
@@ -4109,7 +4109,6 @@ VirusShare_84dc98e099118f4d18939e7321eb2a30,application/x-dosexec
 VirusShare_cac027083e23ad67d96385e8a85a031b,application/x-dosexec
 VirusShare_d17da2b48eae5550cab45af389d96ab1,application/x-dosexec
 VirusShare_ed7ebf7680f8bab49d840c43efabb602,application/x-dosexec
-VirusShare_c5dc9863743e7765a2e9e2c855782e16,application/x-dosexec
 VirusShare_c5dc9863743e7765a2e9e2c855782e16,application/x-dosexec
 VirusShare_2da04b9568ed34a7db8539588896704e,application/x-dosexec
 VirusShare_085af2a5f7131014a1c2f035b0122054,application/x-dosexec

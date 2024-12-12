@@ -1,4 +1,4 @@
-Arquivo,Tipo MIME,Pasta de Destino
+Arquivo,MIME_type,Pasta de Destino
 VirusShare_778c118a7001bdc1adb81e4915a5aa11,application/x-shockwave-flash,./sample_classification/application_x-shockwave-flash
 VirusShare_feec6c7c86b7ba58d15d38e1e4e95b80,application/x-shockwave-flash,./sample_classification/application_x-shockwave-flash
 VirusShare_4671a8aac16b221a970d3e0213fd40bd,application/x-shockwave-flash,./sample_classification/application_x-shockwave-flash

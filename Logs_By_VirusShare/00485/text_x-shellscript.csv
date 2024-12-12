@@ -1,4 +1,4 @@
-Arquivo,Tipo MIME,Pasta de Destino
+Arquivo,MIME_type,Pasta de Destino
 VirusShare_395d015795789d2408bbfdab50c4f193,text/x-shellscript,./sample_classification/text_x-shellscript
 VirusShare_99aed63a06b16f07a0a17dbbd037382b,text/x-shellscript,./sample_classification/text_x-shellscript
 VirusShare_6691b627cd1b55dd8cb0bd49366b9856,text/x-shellscript,./sample_classification/text_x-shellscript

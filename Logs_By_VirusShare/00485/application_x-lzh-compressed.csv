@@ -1,4 +1,4 @@
-Arquivo,Tipo MIME,Pasta de Destino
+Arquivo,MIME_type,Pasta de Destino
 VirusShare_9e465b1818cd97a70b59aa3f18a2c83f,application/x-lzh-compressed,./sample_classification/application_x-lzh-compressed
 VirusShare_8684134b8de3a1716868a2778bbbd166,application/x-lzh-compressed,./sample_classification/application_x-lzh-compressed
 VirusShare_e4c24847ee1e4abac15144c87355fa8e,application/x-lzh-compressed,./sample_classification/application_x-lzh-compressed

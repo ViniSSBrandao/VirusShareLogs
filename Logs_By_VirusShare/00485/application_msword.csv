@@ -1,4 +1,4 @@
-Arquivo,Tipo MIME,Pasta de Destino
+Arquivo,MIME_type,Pasta de Destino
 VirusShare_9934f525e8ea1c8a4b24a3f2e4bc41fe,application/msword,./sample_classification/application_msword
 VirusShare_12489be76fc04c1226707d1029f834a8,application/msword,./sample_classification/application_msword
 VirusShare_531576d42fac0f02c88fdc36714d3d1c,application/msword,./sample_classification/application_msword

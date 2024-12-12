@@ -1,4 +1,4 @@
-Arquivo,Tipo MIME,Pasta de Destino
+Arquivo,MIME_type,Pasta de Destino
 VirusShare_27770949d3a5e85e3ef7217a3e3f0b4a,application/x-dosexec,./sample_classification/application_x-dosexec
 VirusShare_96ca12dde6d717895a7749573327eab2,application/x-dosexec,./sample_classification/application_x-dosexec
 VirusShare_a03eda66dd80c40232c59b20d54710e9,application/x-dosexec,./sample_classification/application_x-dosexec

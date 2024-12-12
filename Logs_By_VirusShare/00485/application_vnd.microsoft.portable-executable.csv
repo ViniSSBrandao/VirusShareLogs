@@ -1,4 +1,4 @@
-Arquivo,Tipo MIME,Pasta de Destino
+Arquivo,MIME_type,Pasta de Destino
 VirusShare_95de8012301c484223a59f5833b367ab,application/vnd.microsoft.portable-executable,./sample_classification/application_vnd.microsoft.portable-executable
 VirusShare_eb48941648a2a8c93ce729570c089467,application/vnd.microsoft.portable-executable,./sample_classification/application_vnd.microsoft.portable-executable
 VirusShare_d48678fb2b4d7da78359132611e4e602,application/vnd.microsoft.portable-executable,./sample_classification/application_vnd.microsoft.portable-executable

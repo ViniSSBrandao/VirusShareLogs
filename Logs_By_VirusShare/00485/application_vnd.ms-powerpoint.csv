@@ -1,4 +1,4 @@
-Arquivo,Tipo MIME,Pasta de Destino
+Arquivo,MIME_type,Pasta de Destino
 VirusShare_4cf0ccdb2104650411e0fe413ed38f74,application/vnd.ms-powerpoint,./sample_classification/application_vnd.ms-powerpoint
 VirusShare_1acfd9330597e967165c3b43a882e47f,application/vnd.ms-powerpoint,./sample_classification/application_vnd.ms-powerpoint
 VirusShare_b2c169e8e7fc7d048c7465b1a042daa8,application/vnd.ms-powerpoint,./sample_classification/application_vnd.ms-powerpoint

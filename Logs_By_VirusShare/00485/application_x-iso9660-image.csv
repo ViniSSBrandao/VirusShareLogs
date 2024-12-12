@@ -1,4 +1,4 @@
-Arquivo,Tipo MIME,Pasta de Destino
+Arquivo,MIME_type,Pasta de Destino
 VirusShare_458228b460f972d7935723acad55f9ba,application/x-iso9660-image,./sample_classification/application_x-iso9660-image
 VirusShare_9ba2c7a4f69bcfa3bb7abf31fb1e1a8f,application/x-iso9660-image,./sample_classification/application_x-iso9660-image
 VirusShare_2cfeed0ace8250c8fc52d7a1d5e86d10,application/x-iso9660-image,./sample_classification/application_x-iso9660-image
