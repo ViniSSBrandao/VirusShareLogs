@@ -47,11 +47,12 @@ The script creates:
     │   ├── program.exe
     ...
 
-And logs:<br/>
-File,MIME_type,Destination Folder<br/>
-document.pdf,application/pdf,sample_classification/application_pdf<br/>
-image.jpg,image/jpeg,sample_classification/image_jpeg<br/>
-program.exe,application/x-dosexec,sample_classification/application_x-dosexec<br/>
+And their respective logs:
+
+    File,           MIME_type,                 Destination Folder
+    document.pdf,   application/pdf,           sample_classification/application_pdf
+    image.jpg,      image/jpeg,                sample_classification/image_jpeg
+    program.exe,    application/x-dosexec,     sample_classification/application_x-dosexec
 
 
 ## Count Aggregation `log_classification_and_separation.py`
