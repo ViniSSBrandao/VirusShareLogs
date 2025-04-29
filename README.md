@@ -5,6 +5,57 @@ None of the VirusShare files will be available here for security reasons. If you
 
 ## available tools
 
+
+### File separator and counter `file_counter_separator.sh`
+  
+🚀 Features
+
+- Automatically detects file types using file --mime-type
+- Moves files into corresponding folders named after their MIME type
+- Creates a log file (registro_destino.csv) with records of processed files
+- Displays progress and execution time
+
+📥 Requisites & How to use:
+
+- Must use a sh compatible enviroment (such as linux, macOS and wsl)
+- The file command installed (default in most Linux distributions)
+- Read, write, and execute permissions for the directories involved
+
+- Make sure to edit the directories on your computer match the ones on the file<br/>
+`source_dir="./Untreated_logs/` => the place where the analyzed files are stored before sorting <br/>
+`dest_dir="./sample_classification` => the place where the analyzed files are stored before sorting<br/>
+`log_file="registro_destino.csv` => the file with a log repoting what the files were classificated as <br/>
+
+- To execute it, you can either call it from the terminal or make it executable. 
+
+call it by using `sh file_counter_separator.sh` (or your os equivalent sh command) 
+
+📂 Expected Output
+
+If Untreated_logs/ contains:<br/>
+- document.pdf<br/>
+- image.jpg<br/>
+- program.exe<br/>
+
+The script creates:
+
+    sample_classification/ 
+    ├── application_pdf/
+    │   ├── document.pdf
+    ├── image_jpeg/
+    │   ├── image.jpg
+    ├── application_x-dosexec/
+    │   ├── program.exe
+    ...
+
+And their respective logs:
+
+    File,           MIME_type,                 Destination Folder
+    document.pdf,   application/pdf,           sample_classification/application_pdf
+    image.jpg,      image/jpeg,                sample_classification/image_jpeg
+    program.exe,    application/x-dosexec,     sample_classification/application_x-dosexec
+
+
 ## Count Aggregation `log_classification_and_separation.py`
 
 
@@ -58,55 +109,6 @@ Example Output:
           VirusShare_e153bacb64b4b635cca2538198b87459	application/gzip	./sample_classification/application_gzip
                   ...
 
-
-### File separator and counter `file_counter_separator.sh`
-  
-🚀 Features
-
-- Automatically detects file types using file --mime-type
-- Moves files into corresponding folders named after their MIME type
-- Creates a log file (registro_destino.csv) with records of processed files
-- Displays progress and execution time
-
-📥 Requisites & How to use:
-
-- Must use a sh compatible enviroment (such as linux, macOS and wsl)
-- The file command installed (default in most Linux distributions)
-- Read, write, and execute permissions for the directories involved
-
-- Make sure to edit the directories on your computer match the ones on the file<br/>
-`source_dir="./Untreated_logs/` => the place where the analyzed files are stored before sorting <br/>
-`dest_dir="./sample_classification` => the place where the analyzed files are stored before sorting<br/>
-`log_file="registro_destino.csv` => the file with a log repoting what the files were classificated as <br/>
-
-- To execute it, you can either call it from the terminal or make it executable. 
-
-call it by using `sh file_counter_separator.sh` (or your os equivalent sh command) 
-
-📂 Expected Output
-
-If Untreated_logs/ contains:<br/>
-- document.pdf<br/>
-- image.jpg<br/>
-- program.exe<br/>
-
-The script creates:
-
-    sample_classification/ 
-    ├── application_pdf/
-    │   ├── document.pdf
-    ├── image_jpeg/
-    │   ├── image.jpg
-    ├── application_x-dosexec/
-    │   ├── program.exe
-    ...
-
-And their respective logs:
-
-    File,           MIME_type,                 Destination Folder
-    document.pdf,   application/pdf,           sample_classification/application_pdf
-    image.jpg,      image/jpeg,                sample_classification/image_jpeg
-    program.exe,    application/x-dosexec,     sample_classification/application_x-dosexec
 
 
 
